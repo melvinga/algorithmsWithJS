@@ -1,0 +1,25 @@
+v0.1.0:
+  (1) Depth First Search
+  (2) Breadth First Search
+  (3) Matching Parenthesis
+  (4) Making use of Hash Tables
+      (a) Keep track of numbers in an array so that two numbers sum up to something
+      (b) Nth fibonacci number
+      (c) Keep track of cells already visited in a matrix
+      (d) number of zero cells around a cell in a matrix
+  (5) How to manipulate multiple variables/pointes simultaneously
+      (a) Traverse a string simultaneously from left and right ends
+      (b) Traverse a linked list simultaneously from both ends
+      (c) Longest palendromic substring in a string
+  (6) Reverse linked list
+      (a) find duplicates
+      (b) remove duplicates
+  (7) Sorting fundamentals
+      (a) quicksort
+      (b) mergesort
+      (c) bubblesort
+      (d) runtime of a sort
+      (e) time complexity
+  (8) Recursion
+  (9) Custom data structures (OOPS)
+  (10) Binary search
